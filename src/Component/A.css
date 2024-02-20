@@ -1,0 +1,20 @@
+.ac{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.aci{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.sp{
+  margin: 8px;
+  padding: 6px;
+}
+.aco{
+  display: flex;
+  flex-direction: column;
+}
